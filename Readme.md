@@ -1,4 +1,4 @@
-# Todo List Project  ![image](Media/Images/icons8-todo-list-100.png)
+# Todo List Project  ![image](icons8-todo-list-100.png)
 
 >This is  a simple **Todo list manager** that I have created as a practice project for FrontEnd technologies. It has basic three functionalities:-
 
